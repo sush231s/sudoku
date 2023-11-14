@@ -1,0 +1,25 @@
+body {
+	background-image: url("wp8101509.webp");
+	height: 100vh;
+	width: 100vw;
+}
+h1 {
+	color: rgb(42, 104, 165);
+}
+table {
+	border-collapse: collapse;
+	font-family: Calibri, sans-serif;
+	background-color: yellow;
+}
+colgroup,
+tbody {
+	border: solid medium;
+}
+td {
+	border: solid thin;
+	height: 50px;
+	width: 50px;
+	text-align: center;
+	font-size: 25px;
+	padding: 0;
+}
